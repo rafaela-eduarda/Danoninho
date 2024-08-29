@@ -11,7 +11,7 @@ h1 {
     text-align: center;
     margin-bottom: 20px;
     color: #ff007f;
-    @import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+    font-family: "Sevillana", cursive;
 }
 img{
     width: 35%;
