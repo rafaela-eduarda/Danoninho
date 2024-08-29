@@ -1,0 +1,9 @@
+body {
+    background-color: #000000; /* Fundo preto */
+    color: #ffffff; /* Texto branco */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
